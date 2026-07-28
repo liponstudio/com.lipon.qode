@@ -19,4 +19,4 @@ This repository hosts the **Lipon Studio** organization page on GitHub Pages, in
 
 ---
 
-*Built with ❤️ in Bangladesh*
+*Built with ❤️ by Lipon*
