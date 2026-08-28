@@ -10,7 +10,7 @@ This repository hosts the **Lipon Studio** organization page on GitHub Pages, in
 
 | App | Package | Status |
 |-----|---------|--------|
-| **Qode** | [Google Play](https://play.google.com/store/apps/details?id=com.lipon.qode) |
+| **Qode** | com.lipon.qode | Live
 
 ### 🔗 Links
 
