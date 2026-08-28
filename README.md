@@ -14,7 +14,7 @@ This repository hosts the **Lipon Studio** organization page on GitHub Pages, in
 
 ### 🔗 Links
 
-- **Website:** [liponstudio.github.io](https://liponstudio.github.io)
+- **Website:** [liponstudio.github.io/com.lipon.qode](https://liponstudio.github.io/com.lipon.qode/privacy_policy.html)
 - **Email:** [liponstudio@gmail.com](mailto:liponstudio@gmail.com)
 
 ---
